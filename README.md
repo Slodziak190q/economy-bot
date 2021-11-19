@@ -11,3 +11,11 @@ And paste this in!
     "prefix": "Your custom prefix"
 }
 Then run "node ." in terminal!
+# shopitems.js!
+In shopitems.js
+add your items in "Your item here"
+
+
+#Credits
+Please Don't host this code to public its only for you!
+You can edit this code and report issues!
