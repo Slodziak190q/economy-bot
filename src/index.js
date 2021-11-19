@@ -61,6 +61,6 @@ client.login(config.token);
 
 client.on('message', (message) => {
     if(message.content === '%help') {
-        message.channel.send("%work, %daily, %buy (item name) , %shop , %winornot , %bal ")
+        message.channel.send("%work, %daily, %buy (item name) , %shop , %DoubleOrNothing , %bal ")
     }
 })
