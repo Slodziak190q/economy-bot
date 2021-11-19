@@ -16,6 +16,6 @@ In shopitems.js
 add your items in "Your item here"
 
 
-#Credits
+# Credits
 Please Don't host this code to public its only for you!
 You can edit this code and report issues!
