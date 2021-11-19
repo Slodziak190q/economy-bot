@@ -2,6 +2,7 @@
 This is a simple Discord.JS economy bot!
 # How to configure it!
 Frist of all you must have Node v14 or newest to run!
+Run "npm install" to install required modules! 
 In index.js:
 In "Your MongoDB url!" paste your MongoDB connection link!
 Create config.json file!
